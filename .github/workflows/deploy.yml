@@ -7,4 +7,4 @@ jobs:
       - name: Hola mundo
         run: echo hola mundo
       - name: Repositorio
-        uses: action/checkout@v7
+        uses: actions/checkout@v7
